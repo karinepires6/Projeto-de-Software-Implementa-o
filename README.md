@@ -15,4 +15,4 @@
 
 ● Utilizar o padrão DAO para acesso aos dados do banco de dados
 
-● Utilizar três formas de armazenamento: arquivo texto (não está funcionando), sgbd postgres, mysql.
+● Utilizar três formas de armazenamento: arquivo texto (não está funcionando), sgbd postgres e mysql.
